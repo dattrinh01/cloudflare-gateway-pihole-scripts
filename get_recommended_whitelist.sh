@@ -32,7 +32,7 @@ urls=(
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt
     # Commented out because it whitelists sites including doubleclick.net and ad.atdmt.com
     # https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
-
+    https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
 )
 
 # loop through the urls and download each file with curl
